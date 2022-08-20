@@ -4,7 +4,7 @@ Spreadsheets2x is a community of hackers building a toolbox of scripts (i.e. bas
 
 If you have a project or spreadsheet that you want converted into something else please fill out our form here.
 
-<a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>Upload Spreadsheet</a>
+<a href="https://spreadsheets2x.github.io/upload.html" class="btn btn-github"><span class="icon"></span>Upload Spreadsheet</a>
 
 ### Jekyll Themes
 
